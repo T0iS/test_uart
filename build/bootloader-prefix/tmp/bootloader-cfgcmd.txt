@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/t0is/projects/btsis_test/uart_echo/uart_echo/sdkconfig;-DIDF_PATH=/home/t0is/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=/home/t0is/.espressif/python_env/idf4.1_py3.6_env/bin/python;-DEXTRA_COMPONENT_DIRS=/home/t0is/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
